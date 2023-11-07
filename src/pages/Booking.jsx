@@ -1,5 +1,10 @@
+import Header from "../components/Header";
+
 export default function Booking() {
     return (
-        <h1>Booking</h1>
+        <div>
+            <Header />
+            <h1>Booking</h1>
+        </div>
     )
 }

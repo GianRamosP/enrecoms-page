@@ -23,7 +23,7 @@ const router = createBrowserRouter ([
     errorElement: <h1>Error</h1>
   },
   {
-    path: "/about",
+    path: "/about-us",
     element: <AboutUs />,
     errorElement: <h1>Error</h1> 
   },

@@ -1,5 +1,10 @@
+import Header from "../components/Header";
+
 export default function WhyUs() {
     return (
-        <h1>WhyUs</h1>
+        <div>
+            <Header />
+            <h1>WhyUs</h1>
+        </div>
     )
 }

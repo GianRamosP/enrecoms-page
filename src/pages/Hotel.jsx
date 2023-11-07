@@ -1,5 +1,10 @@
+import Header from "../components/Header";
+
 export default function Hotel() {
     return (
-        <h1>Hotel</h1>
+        <div>
+            <Header />
+            <h1>Hotel</h1>
+        </div>
     )
 }
